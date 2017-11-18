@@ -1,0 +1,7 @@
+  { "name": "Ingresso",
+    "description": "Piccola stanza in cui si accoglievano gli ospiti. Una scalinata ti permette di salire al primo piano, o scendere nei sotterranei.",
+    "neighbors": {"w":1,"e":6,"s":5,"up":10,"dw":41},
+    "items": ["cilindro esagonale"],
+    "npc": [],
+    "npcis": []
+  }

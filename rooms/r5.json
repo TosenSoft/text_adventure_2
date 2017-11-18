@@ -1,0 +1,7 @@
+  { "name": "Giardino",
+    "description": "Piccolo giardino ben curato, porta all'ingresso del castello.",
+    "neighbors": {"n":4},
+    "items": ["post-it2"],
+    "npc": [],
+    "npcis": []
+  }

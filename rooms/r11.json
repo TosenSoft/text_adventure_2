@@ -1,0 +1,7 @@
+  { "name": "Camera degli ospiti",
+    "description": "Una piccola camera da letto, per una coppia di ospiti.",
+    "neighbors": {"w":9,"e":13},
+    "items": ["post-it1"],
+    "npc": [],
+    "npcis": []
+  }

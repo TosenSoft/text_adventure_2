@@ -1,0 +1,7 @@
+  { "name": "Sartoria",
+    "description": "Una stanza piena di strani macchinari per tessere le stoffe.",
+    "neighbors": {"n":20,"w":19,"e":23},
+    "items": ["fiala ciano"],
+    "npc": ["vetrata","torso di marmo"],
+    "npcis": []
+  }

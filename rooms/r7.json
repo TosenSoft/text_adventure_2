@@ -1,0 +1,7 @@
+  { "name": "Cucina",
+    "description": "Una grande cucina con fornelli, pentole ed altri attrezzi del mestiere. Non viene usata da molto tempo.",
+    "neighbors": {"n":6},
+    "items": ["quarzo","mattonella rosa"],
+    "npc": [],
+    "npcis": []
+  }

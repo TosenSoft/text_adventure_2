@@ -1,0 +1,7 @@
+  { "name": "Atrio",
+    "description": "Una grande sala, con una grossa scalinata che conduce al piano superiore.",
+    "neighbors": {"s":21,"up":29},
+    "items": [],
+    "npc": [],
+    "npcis": []
+  }

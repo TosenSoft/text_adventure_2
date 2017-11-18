@@ -1,0 +1,7 @@
+  { "name": "Stanza Sud Ovest",
+    "description": "Un grosso studio privato, dove il medico di famiglia visitava ed operava i suoi pazienti. Restano i vecchi scaffali senza libri.",
+    "neighbors": {"n":2},
+    "items": ["vetro rosso", "asta di legno"],
+    "npc": [],
+    "npcis": []
+  }

@@ -1,0 +1,8 @@
+{
+    "name": "Corridoio Calcareo",
+    "description": "Un lungo e sottile corridoio che si immerge nella roccia. Potrebbe portare ovunque.",
+    "neighbors": {"w":43,"e":47,"n":44},
+    "items": ["fiala Terra di Siena"],
+    "npc": [],
+    "npcis": []
+}

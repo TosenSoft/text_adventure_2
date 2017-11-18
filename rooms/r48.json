@@ -1,0 +1,8 @@
+{
+    "name": "Cella",
+    "description": "Una piccola cella in cui restano le ossa di un prigioniero.",
+    "neighbors": {"s":51},
+    "items": ["pergamena antica"],
+    "npc": [],
+    "npcis": []
+}

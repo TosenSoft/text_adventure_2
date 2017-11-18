@@ -1,0 +1,8 @@
+{
+    "name": "Sala scacchi",
+    "description": "Al centro della stanza si trova una scacchiera in marmo, i vari pezzi sono disseminati per la stanza.",
+    "neighbors": {"w":27,"dw":20,"e":30},
+    "items": ["leva arrugginita","chiave in ottone"],
+    "npc": ["porta in ottone"],
+    "npcis": []
+}

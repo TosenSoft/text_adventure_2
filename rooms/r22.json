@@ -1,0 +1,7 @@
+  { "name": "Voliera",
+    "description": "Una vecchia stanza piena di grosse gabbie. Probabilmente ospitavano piccioni viaggiatori ed altri uccelli.",
+    "neighbors": {"s":23,"e":24},
+    "items": ["mattonella nera","ingranaggio piccolo"],
+    "npc": ["mosaico"],
+    "npcis": []
+  }

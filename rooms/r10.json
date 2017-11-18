@@ -1,0 +1,7 @@
+  { "name": "Sala ricreativa",
+    "description": "Una grossa stanza con tanti giochi e passatempi, consumata dal tempo e dalla muffa.",
+    "neighbors": {"s":12,"dw":4},
+    "items": ["lanterna"],
+    "npc": [],
+    "npcis": []
+  }

@@ -1,0 +1,8 @@
+{
+    "name": "Magazzino",
+    "description": "Un grosso magazzino in cui sono state ammassati diversi congegni e strumenti scientifici.",
+    "neighbors": {"w":36},
+    "items": ["struttura alare"],
+    "npc": [],
+    "npcis": []
+}

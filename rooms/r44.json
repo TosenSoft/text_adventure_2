@@ -1,0 +1,8 @@
+{
+    "name": "Anticamera sotterranea",
+    "description": "Una enorme sala buia che collega tutte le varie sale del sotterraneo. In lontananza, una goccia d'acqua eccheggia nel vuoto.",
+    "neighbors": {"w":42,"n":41,"e":46,"s":45},
+    "items": [],
+    "npc": ["porta di legno","porta senza maniglia"],
+    "npcis": []
+}

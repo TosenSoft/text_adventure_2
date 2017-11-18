@@ -1,0 +1,7 @@
+  { "name": "Anticamera",
+    "description": "Una piccola stanza con qualche piccolo quadro ed un comodino.",
+    "neighbors": {"n":10,"s":13},
+    "items": ["vetro verde","punta di ferro"],
+    "npc": [],
+    "npcis": []
+  }

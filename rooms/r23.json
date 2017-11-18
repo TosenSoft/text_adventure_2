@@ -1,0 +1,7 @@
+  { "name": "Armeria",
+    "description": "Una grossa sala piena di armi e fantocci per allenarsi nel combattimento corpo a corpo.",
+    "neighbors": {"n":22,"w":21},
+    "items": ["vetro bianco","gamba destra"],
+    "npc": [],
+    "npcis": []
+  }

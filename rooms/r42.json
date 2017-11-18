@@ -1,0 +1,8 @@
+{
+    "name": "Lavatoio",
+    "description": "Una piccola stanza con una vasca d'acqua con delle ceste.",
+    "neighbors": {"e":44},
+    "items": ["fiala amaranto","grimaldello"],
+    "npc": [],
+    "npcis": []
+}

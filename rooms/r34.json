@@ -1,0 +1,8 @@
+{
+    "name": "Laboratorio Chimico",
+    "description": "Una sala in cui si svolgevano esperimenti e si preparavano intrugli e pozioni.",
+    "neighbors": {"s":35,"dw":26},
+    "items": [],
+    "npc": ["portafiale"],
+    "npcis": []
+}

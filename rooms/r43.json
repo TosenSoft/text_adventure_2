@@ -1,0 +1,8 @@
+{
+    "name": "Segrete ala Ovest",
+    "description": "Qui iniziano le buie segrete del castello, potrebbero celare qualsiasi cosa.",
+    "neighbors": {"dw":51,"e":45},
+    "items": ["carbone"],
+    "npc": [],
+    "npcis": []
+}

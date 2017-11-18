@@ -1,0 +1,8 @@
+{
+    "name": "Sotterraneo",
+    "description": "Scese le scale ti ritrovi in un buio ed umido anfratto, scavato nella roccia.",
+    "neighbors": {"up":4,"s":44},
+    "items": [],
+    "npc": [],
+    "npcis": []
+}

@@ -1,0 +1,7 @@
+  { "name": "Sala da the",
+    "description": "Una sala piena di libri e tavoli, in leggere o conversare.",
+    "neighbors": {"s":15,"e":16},
+    "items": ["fiala H"],
+    "npc": ["lapide con pulsanti"],
+    "npcis": []
+  }

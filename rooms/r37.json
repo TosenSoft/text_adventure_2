@@ -1,0 +1,8 @@
+{
+    "name": "Sala caldaie",
+    "description": "In questa sala si trova una grande caldaia ed un gran numero di tubi e congegni azionati a vapore. Serve qualcosa per attivare il tutto.",
+    "neighbors": {"n":36,"w":35,"up":40, "s":38},
+    "items": [],
+    "npc": ["congegno a vapore"],
+    "npcis": []
+}

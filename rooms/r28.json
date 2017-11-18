@@ -1,0 +1,8 @@
+{
+    "name": "Terrazzo Sud Ovest",
+    "description": "Un terrazzo pieno di grossi rampicanti.",
+    "neighbors": {"n":27},
+    "items": ["diamante","ingranaggio grosso","post-it3"],
+    "npc": [],
+    "npcis": []
+}

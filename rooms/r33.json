@@ -1,0 +1,8 @@
+{
+    "name": "Sala geografica",
+    "description": "Piccola sala in cui cartografi disegnavano e studiavano cartine della regione.",
+    "neighbors": {"n":32},
+    "items": ["corindone"],
+    "npc": [],
+    "npcis": []
+}

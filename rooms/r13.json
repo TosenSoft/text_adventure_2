@@ -1,0 +1,7 @@
+  { "name": "Camera degli ospiti",
+    "description": "Una stanza per accogliere una coppia di ospiti importanti.",
+    "neighbors": {"w":11,"n":12,"e":15},
+    "items": ["opale","testa"],
+    "npc": [],
+    "npcis": []
+  }

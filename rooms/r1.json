@@ -1,0 +1,7 @@
+  { "name": "Veranda Nord Ovest",
+    "description": "Una grande stanza illuminata da enormi finestre, piena di polvere e ragnatele.",
+    "neighbors": {"e":4,"s":2},
+    "items": ["libro rosso","libro verde","libro ocra"],
+    "npc": ["specchio scheggiato"],
+    "npcis": []
+  }

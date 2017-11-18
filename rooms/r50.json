@@ -1,0 +1,8 @@
+{
+    "name": "Cella",
+    "description": "Una cella piena di rocce. Una parte del muro e' collassata.",
+    "neighbors": {"n":51},
+    "items": [],
+    "npc": [],
+    "npcis": []
+}

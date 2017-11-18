@@ -1,0 +1,7 @@
+  { "name": "Sala da pranzo ala Ovest",
+    "description": "Una grossa sala con sedie e tavoli, adatta a ricevere ambasciatori ed altri ospiti importanti.",
+    "neighbors": {"n":1,"s":3},
+    "items": ["smeraldo","rubino","braccio sinistro"],
+    "npc": ["libreria"],
+    "npcis": []
+  }

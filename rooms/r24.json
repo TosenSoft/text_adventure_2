@@ -1,0 +1,8 @@
+{
+  "name": "Stanzino",
+  "description": "Una piccola stanza con le pareti ed il pavimento in legno.",
+  "neighbors": {"s":25,"w":22,"dw":16},
+  "items": [],
+  "npc": [],
+  "npcis": []
+}

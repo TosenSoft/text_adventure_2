@@ -1,0 +1,8 @@
+{
+    "name": "Dormitori",
+    "description": "Stanza in cui gli artigiani dormivano.",
+    "neighbors": {"n":24},
+    "items": ["gamba sinistra","vetro nero"],
+    "npc": [],
+    "npcis": []
+}

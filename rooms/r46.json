@@ -1,0 +1,8 @@
+{
+    "name": "Macello",
+    "description": "Qui si scuoiavano e preparavano gli animali per essere macellati o trasformati in pellicce.",
+    "neighbors": {"w":44},
+    "items": ["secchio","maniglia"],
+    "npc": [],
+    "npcis": []
+}

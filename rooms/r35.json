@@ -1,0 +1,8 @@
+{
+    "name": "Sala Atena",
+    "description": "Una sala in cui e' stata messa una grossa statua di Atena al centro. La statua sembra adagiata su di un congegno.",
+    "neighbors": {"n":34,"e":37},
+    "items": [],
+    "npc": ["statua di Atena"],
+    "npcis": []
+}

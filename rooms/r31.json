@@ -1,0 +1,8 @@
+{
+    "name": "Terrazzo Nord Est",
+    "description": "Un grosso terrazzo nella zona Nord Est del castello. Sono sparsi in giro degli strumenti musicali.",
+    "neighbors": {"s":32},
+    "items": ["violino", "post-it4"],
+    "npc": [],
+    "npcis": []
+}

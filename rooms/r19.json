@@ -1,0 +1,7 @@
+  { "name": "Mensa",
+    "description": "Una piccola mensa in cui gli artigiani mangiavano tra un lavoro ed un altro.",
+    "neighbors": {"n":18,"e":21},
+    "items": ["elmo"],
+    "npc": [],
+    "npcis": []
+  }

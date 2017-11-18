@@ -1,0 +1,7 @@
+  { "name": "Sala a chiocciola",
+    "description": "Una piccola stanza circolare in cui al centro si trova una grossa scala a chiocciola.",
+    "neighbors": {"w":14,"up":24},
+    "items": [],
+    "npc": [],
+    "npcis": []
+  }

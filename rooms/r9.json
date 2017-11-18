@@ -1,0 +1,7 @@
+  { "name": "Studio piccolo",
+    "description": "Un piccolo studio privato.",
+    "neighbors": {"n":8,"e":11},
+    "items": ["mattonella arancione"],
+    "npc": ["pulsantiera"],
+    "npcis": []
+  }

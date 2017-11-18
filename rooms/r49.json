@@ -1,0 +1,8 @@
+{
+    "name": "Cella",
+    "description": "Una cella piena di paglia e terriccio. E' vuota.",
+    "neighbors": {"e":51},
+    "items": ["pergamena logora"],
+    "npc": [],
+    "npcis": []
+}

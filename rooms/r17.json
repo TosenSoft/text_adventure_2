@@ -1,0 +1,7 @@
+  { "name": "Biblioteca storica",
+    "description": "Una biblioteca piena di libri storici ed atlanti.",
+    "neighbors": {"w":15},
+    "items": ["fiala arancione","mattonella gialla"],
+    "npc": [],
+    "npcis": []
+  }

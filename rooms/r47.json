@@ -1,0 +1,8 @@
+{
+    "name": "Cantina del Vino",
+    "description": "Grosse botti di legno occupano la stanza, esse contengono ancora del buon vino.",
+    "neighbors": {"w":45},
+    "items": [],
+    "npc": [],
+    "npcis": []
+}

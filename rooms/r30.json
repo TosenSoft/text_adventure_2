@@ -1,0 +1,8 @@
+{
+    "name": "Sala dei ricevimenti",
+    "description": "Una grossa sala con muri spessi, in cui si accoglievano strateghi e si pianificavano battaglie.",
+    "neighbors": {"e":32,"w":29},
+    "items": ["ametista"],
+    "npc": [],
+    "npcis": []
+}

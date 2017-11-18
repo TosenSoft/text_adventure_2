@@ -1,0 +1,8 @@
+{
+    "name": "Dispensa",
+    "description": "Una grossa sala in cui si conservavano cibi e bevande da offrire ad illutri ospiti.",
+    "neighbors": {"n":31,"w":30,"s":33},
+    "items": [],
+    "npc": ["lapide pulsantiera"],
+    "npcis": []
+}

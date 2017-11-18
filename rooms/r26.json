@@ -1,0 +1,8 @@
+{
+    "name": "Terrazzo Nord Ovest",
+    "description": "Un grande terrazzo, da cui e' possibile salire al piano superiore.",
+    "neighbors": {"s":27,"up":34},
+    "items": [],
+    "npc": [],
+    "npcis": []
+}

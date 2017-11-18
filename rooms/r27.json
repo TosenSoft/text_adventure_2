@@ -1,0 +1,8 @@
+{
+    "name": "Galleria Ovest",
+    "description": "Un lungo corridoio con esposte teche in vetro, contenenti animali e diversi minerali.",
+    "neighbors": {"n":26,"s":28,"e":29},
+    "items": [],
+    "npc": ["pulsantiera marmo","vano cristalli"],
+    "npcis": []
+}

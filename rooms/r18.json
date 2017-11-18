@@ -1,0 +1,7 @@
+  { "name": "Laboratorio di scultura",
+    "description": "Una stanza piena di utensili per scolpire e statue di marmo.",
+    "neighbors": {"s":19},
+    "items": ["ingranaggio medio"],
+    "npc": ["quadro"],
+    "npcis": []
+  }

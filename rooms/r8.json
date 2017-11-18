@@ -1,0 +1,7 @@
+  { "name": "Sala pittura",
+    "description": "Una piccola sala ben illuminata, con tanto di statue e cavalletti per dipingere splendidi quadri.",
+    "neighbors": {"s":9},
+    "items": ["fiammiferi","cacciavite"],
+    "npc": [],
+    "npcis": []
+  }

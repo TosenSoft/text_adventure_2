@@ -1,0 +1,8 @@
+{
+    "name": "Stanza del tesoro",
+    "description": "Piccola stanza in cima alla torre centrale del castello, in cui sono presenti enorme ricchezze.",
+    "neighbors": {"dw":37},
+    "items": ["tesoro"],
+    "npc": [],
+    "npcis": []
+}

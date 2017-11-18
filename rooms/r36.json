@@ -1,0 +1,8 @@
+{
+    "name": "Corridoio Nord",
+    "description": "Un lungo corridoio che percorre tutto il lato a Nord della torre. Una grossa grata alla fine del corridoio impedisce l'avanzamento.",
+    "neighbors": {"s":37,"e":39},
+    "items": ["bilancia"],
+    "npc": [],
+    "npcis": []
+}

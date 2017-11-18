@@ -1,0 +1,8 @@
+{
+    "name": "Corridoio Sud",
+    "description": "Un lungo corridoio che scorre lungo il lato sud della torre. Una grossa grata impediva l'accesso.",
+    "neighbors": {"n":37},
+    "items": [],
+    "npc": ["alloggiamento"],
+    "npcis": []
+}

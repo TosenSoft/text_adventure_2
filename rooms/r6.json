@@ -1,0 +1,7 @@
+  { "name": "Sala Pranzo Nord Est",
+    "description": "Grande sala in cui i commensali si trovavano a mangiare ed a conversare fino a tarda notte.",
+    "neighbors": {"w":4,"s":7},
+    "items": ["maniglia esagonale","fiala blu"],
+    "npc": ["porta bloccata"],
+    "npcis": []
+  }

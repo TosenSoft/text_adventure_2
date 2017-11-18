@@ -1,0 +1,7 @@
+  { "name": "Camera degli ospiti",
+    "description": "Una stanza riservata a degli ospiti importanti.",
+    "neighbors": {"w":13,"n":14,"e":17},
+    "items": ["vetro viola","topazio"],
+    "npc": ["griglia a muro"],
+    "npcis": []
+  }
